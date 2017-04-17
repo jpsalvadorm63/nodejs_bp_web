@@ -21,7 +21,7 @@ This application is a web aplication, a complement to test functionality of
 
 2. From`nodejs_bp_web` root directory run `npm run start`
 
-3. Use your browser, open http://localhost:3001
+3. Use your browser, open `http://localhost:3001` url
 
     * First register a user
     * Start loging
